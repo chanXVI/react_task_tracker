@@ -14,7 +14,7 @@ const Header = ({ title }) => {
 };
 
 Header.defaultProps = {
-  title: "Master Branch",
+  title: "Dev Branch",
 };
 
 Header.propTypes = {
